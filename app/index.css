@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #7b879d;
+  background-color: #d6e2f0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,11 +44,13 @@ body {
   font-weight: 400;
   padding: 1.1rem;
   margin-top: 5px;
+  color: #7b879d;
 }
 .app-container .app-container__desc .bold {
   font-size: 1.3em;
   font-weight: 700;
   margin-bottom: 12px;
+  color: #1f3251;
 }
 
 /*# sourceMappingURL=index.css.map */
